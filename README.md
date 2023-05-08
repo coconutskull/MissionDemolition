@@ -1,2 +1,0 @@
-# MissionDemolition
-Slingshot game
